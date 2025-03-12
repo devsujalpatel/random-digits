@@ -1,0 +1,10 @@
+{
+    "name": "random-digits-generator",
+    "version": "1.0.0",
+    "main": "random.cjs",
+    "module": "random.mjs",
+    "exports": {
+        "import": "./random.mjs",
+        "require": "./random.cjs"
+    }
+}
