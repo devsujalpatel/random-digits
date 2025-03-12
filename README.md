@@ -58,6 +58,9 @@ This project is licensed under the MIT License.
 ## Contributions
 Feel free to submit issues or pull requests on GitHub to improve this package!
 
+## GitHub Repository
+[GitHub Link](https://github.com/devsujalpatel/random-digits)
+
 ---
 
 Happy coding! 🚀
